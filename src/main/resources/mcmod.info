@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "fcm",
+  "name": "First Seed",
+  "description": "Just one seed of the World Tree",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Palankar/SomeMode",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Palankar"],
+  "credits": "Meeh",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
